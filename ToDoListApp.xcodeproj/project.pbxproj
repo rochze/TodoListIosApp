@@ -15,6 +15,7 @@
 		10D577042060D3ED00E74F9D /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D577032060D3ED00E74F9D /* DataManager.swift */; };
 		10D5770C2060EB2600E74F9D /* ToDoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D5770B2060EB2600E74F9D /* ToDoTableViewCell.swift */; };
 		10D5770E2060EB3A00E74F9D /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D5770D2060EB3A00E74F9D /* ToDoTableViewController.swift */; };
+		10F6F8762062208F008BBA34 /* aaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F6F8752062208F008BBA34 /* aaa.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		10D577032060D3ED00E74F9D /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		10D5770B2060EB2600E74F9D /* ToDoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewCell.swift; sourceTree = "<group>"; };
 		10D5770D2060EB3A00E74F9D /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
+		10F6F8752062208F008BBA34 /* aaa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aaa.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				10D576F62060D22200E74F9D /* Assets.xcassets */,
 				10D576F82060D22200E74F9D /* LaunchScreen.storyboard */,
 				10D576FB2060D22200E74F9D /* Info.plist */,
+				10F6F8752062208F008BBA34 /* aaa.swift */,
 			);
 			path = ToDoListApp;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				10D576F02060D22200E74F9D /* AppDelegate.swift in Sources */,
 				10D5770C2060EB2600E74F9D /* ToDoTableViewCell.swift in Sources */,
 				10D5770E2060EB3A00E74F9D /* ToDoTableViewController.swift in Sources */,
+				10F6F8762062208F008BBA34 /* aaa.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
