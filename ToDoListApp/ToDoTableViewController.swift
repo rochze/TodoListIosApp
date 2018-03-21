@@ -112,7 +112,6 @@ class ToDoTableViewController: UITableViewController, TodoCellDelegate {
         if todoItem.completed{
             cell.todoLabel.attributedText = strikeThroughText(todoItem.title)
         }
-
         return cell
     }
     
